@@ -1,0 +1,35 @@
+
+.heading{
+  text-align: right;
+  color: white;
+  font-family: Verdana, sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+
+.sub_heading {
+  font-family: Verdana, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.desc {
+  color: Gray;
+  font-size: 21px;
+  font-family: Verdana;
+}
+
+.link{
+  text-align: center;
+}
+
+.soon {
+  color: AquaMarine;
+  font-size: 16px;
+}
+
+.footer {
+  color: Gray;
+  text-align: right;
+}
